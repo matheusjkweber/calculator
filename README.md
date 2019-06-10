@@ -6,4 +6,4 @@ In this project, it will simulate the Apple calculator.
 
 ## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/15331222/59210341-bed33480-8b83-11e9-84d8-cbeb29e9592e.png =100x20)
+<img src="https://user-images.githubusercontent.com/15331222/59210341-bed33480-8b83-11e9-84d8-cbeb29e9592e.png" width="50" height="200" />
